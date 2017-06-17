@@ -1,3 +1,3 @@
-# AI.Vegas
+# AI.industries
 
-Copyright 2017 AI.Vegas℠. All rights reserved.
+Copyright 2017 AI.industries℠. All rights reserved.
